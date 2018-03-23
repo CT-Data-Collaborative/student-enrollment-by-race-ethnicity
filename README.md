@@ -1,7 +1,5 @@
 Student-Enrollment-by-Race-Ethnicity
 
-[![Build Status](https://travis-ci.org/CT-Data-Collaborative/student-enrollment-by-race-ethnicity.svg?branch=master)](https://travis-ci.org/CT-Data-Collaborative/student-enrollment-by-race-ethnicity)
-
 Student Enrollment reports the number of enrolled students per year, per subgroup.
 
 Data Source: <http://edsight.ct.gov/>
