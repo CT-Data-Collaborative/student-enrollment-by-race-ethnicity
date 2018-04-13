@@ -2,7 +2,7 @@
   "name": "student-enrollment-by-race-ethnicity",
   "datapackage_version": "1.0-beta.18",
   "title": "Student Enrollment by Race Ethnicity",
-  "description": "Student Enrollment reports the number of enrolled students per year, per subgroup.",
+  "description": "Student Enrollment reports the number of enrolled students per year, per race-ethnicity.",
   "version": "1.0",
   "licenses": [{
     "url": "http://opendatacommons.org/licenses/pddl/",

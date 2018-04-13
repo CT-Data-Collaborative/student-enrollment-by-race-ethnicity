@@ -1,6 +1,6 @@
 Student-Enrollment-by-Race-Ethnicity
 
-Student Enrollment reports the number of enrolled students per year, per subgroup.
+Student Enrollment reports the number of enrolled students per year, per race-ethnicity.
 
 Data Source: <http://edsight.ct.gov/>
 
